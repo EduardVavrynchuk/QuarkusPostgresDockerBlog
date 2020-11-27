@@ -1,0 +1,3 @@
+info:
+  title: Quarkus Postgres Docker Blog
+  version: "${project.version}"
