@@ -4,5 +4,4 @@
 **/target/
 **/.tern-project
 **/derby.log
-.idea/
 *.iml
