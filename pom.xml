@@ -84,6 +84,7 @@
                         <maven.home>${maven.home}</maven.home>
                     </systemPropertyVariables>
                 </configuration>
+                <version>2.22.0</version>
             </plugin>
         </plugins>
     </build>
